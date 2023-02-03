@@ -1,1 +1,1 @@
-# msa
+# msa - Maven-standalaone-Application
